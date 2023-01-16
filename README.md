@@ -10,3 +10,4 @@
 Your challenge is the elevate this portfolio with your projects, ideas, and unique code. 
 
 Don't forget to link your CV, add your socials, and update the favicon. 
+# KIMBERGYPSY.github.io
